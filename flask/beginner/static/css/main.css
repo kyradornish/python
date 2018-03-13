@@ -1,0 +1,20 @@
+.navbar {
+    border-radius: 0px;
+}
+
+footer {
+    background-color: #101010;
+    color: antiquewhite;
+}
+
+footer p {
+    padding: 35px 0;
+}
+
+#main {
+    padding: 175px 0;
+}
+
+body {
+    overflow-x: hidden;
+}
